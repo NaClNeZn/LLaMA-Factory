@@ -1,4 +1,7 @@
 {
+  "magic_conch": {
+    "file_name": "magic_conch.json"
+  },
   "identity": {
     "file_name": "identity.json"
   },
